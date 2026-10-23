@@ -1,0 +1,4 @@
+# MODÈLE — NE PAS DÉPLOYER TEL QUEL.
+# Après approbation AdSense, copiez la ligne exacte fournie par Google (AdSense > Sites > ads.txt)
+# dans un fichier ads.txt à la racine du site. Le format est :
+# <domaine-régie>, pub-<VOTRE ID À 16 CHIFFRES>, <DIRECT|RESELLER>, <identifiant d'autorité de certification>

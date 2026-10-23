@@ -1,0 +1,108 @@
+{
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/:p*/index.html",
+      "destination": "/:p*/",
+      "permanent": true
+    },
+    {
+      "source": "/informatique/raccourcis-clavier",
+      "destination": "/informatique/raccourcis-clavier/",
+      "permanent": true
+    },
+    {
+      "source": "/informatique/generateur-qr-code",
+      "destination": "/informatique/generateur-qr-code/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite/compteur-de-mots",
+      "destination": "/texte-et-productivite/compteur-de-mots/",
+      "permanent": true
+    },
+    {
+      "source": "/dates-et-temps/calculateur-de-dates",
+      "destination": "/dates-et-temps/calculateur-de-dates/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent/calculateur-de-pourcentage",
+      "destination": "/calculs-d-argent/calculateur-de-pourcentage/",
+      "permanent": true
+    },
+    {
+      "source": "/conversions/convertisseur-d-unites",
+      "destination": "/conversions/convertisseur-d-unites/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/convertisseur-d-images",
+      "destination": "/images-et-fichiers/convertisseur-d-images/",
+      "permanent": true
+    },
+    {
+      "source": "/animaux-et-equitation/age-du-cheval",
+      "destination": "/animaux-et-equitation/age-du-cheval/",
+      "permanent": true
+    },
+    {
+      "source": "/informatique",
+      "destination": "/informatique/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite",
+      "destination": "/texte-et-productivite/",
+      "permanent": true
+    },
+    {
+      "source": "/dates-et-temps",
+      "destination": "/dates-et-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent",
+      "destination": "/calculs-d-argent/",
+      "permanent": true
+    },
+    {
+      "source": "/conversions",
+      "destination": "/conversions/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers",
+      "destination": "/images-et-fichiers/",
+      "permanent": true
+    },
+    {
+      "source": "/animaux-et-equitation",
+      "destination": "/animaux-et-equitation/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ]
+}
