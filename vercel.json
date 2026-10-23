@@ -51,6 +51,26 @@
       "permanent": true
     },
     {
+      "source": "/informatique/generateur-de-mot-de-passe",
+      "destination": "/informatique/generateur-de-mot-de-passe/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite/convertisseur-de-casse",
+      "destination": "/texte-et-productivite/convertisseur-de-casse/",
+      "permanent": true
+    },
+    {
+      "source": "/dates-et-temps/calculateur-d-age",
+      "destination": "/dates-et-temps/calculateur-d-age/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent/calculateur-de-tva",
+      "destination": "/calculs-d-argent/calculateur-de-tva/",
+      "permanent": true
+    },
+    {
       "source": "/informatique",
       "destination": "/informatique/",
       "permanent": true

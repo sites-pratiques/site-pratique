@@ -27,7 +27,9 @@ for (const f of pages) {
   }
   for (const m of h.matchAll(/https:\/\/[a-z0-9.-]+\.vercel\.app/g)) if (m[0] !== D) ko(f + ' : autre domaine ' + m[0]);
   for (const m of h.matchAll(/<aside class="ad-slot"[^>]*>/g)) if (!/\bhidden\b/.test(m[0])) ko(f + ' : pub non masquée');
-  if (/ca-pub-\d|adsbygoogle\.js|<ins\b/.test(h)) ko(f + ' : AdSense actif');
+  const hh = h.replace(/<meta name="google-adsense-account" content="ca-pub-\d{16}">/, ''); /* ADSENSE_META */
+  if (!/google-adsense-account/.test(h)) ko(f + ' : balise AdSense manquante');
+  if (/ca-pub-\d|adsbygoogle\.js|<ins\b/.test(hh)) ko(f + ' : script AdSense actif');
 }
 const locs = [...rd('sitemap.xml').matchAll(/<loc>([^<]+)/g)].map((m) => m[1]).sort();
 const exp = pages.filter((f) => f !== '404.html').map((f) => D + '/' + (f.endsWith('index.html') ? f.slice(0, -10) : f)).sort();

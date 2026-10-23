@@ -33,3 +33,4 @@ a.category-card:hover{transform:translateY(-2px);border-color:#b6d0bf;color:var(
 .result-box{margin-top:12px;padding:14px;border-radius:12px;background:var(--sage);color:var(--ink);overflow-wrap:anywhere}.result-box p{margin:4px 0;color:var(--ink)}
 input[type=range]{width:100%}.field input[type=date],.field input[type=file]{width:100%;padding:10px;border:1px solid #cddbd2;border-radius:11px;font:inherit;background:#fff}
 .qr-actions a.btn{text-decoration:none}@media(max-width:600px){.stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.tool-nav{display:flex;flex-wrap:wrap;gap:4px;justify-content:center;max-width:960px;margin:10px auto 0;padding:0 14px}.tool-nav a{padding:6px 10px;border-radius:9px;font-size:.82rem;color:var(--soft);text-decoration:none;border:1px solid var(--line);background:var(--paper)}.tool-nav a:hover,.tool-nav a[aria-current="page"]{background:var(--sage);color:var(--green-text);font-weight:750}
