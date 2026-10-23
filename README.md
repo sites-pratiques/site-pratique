@@ -6,4 +6,3 @@ Site statique (HTML/CSS/JS, aucune dépendance). Structure : `/catégorie/outil/
 - `/animaux-et-equitation/age-du-cheval/`
 - `base.css` : socle commun, identique à la référence. `style.css` : styles du portail et du générateur.
 - `node tools/check.mjs` · `node tools/set-domain.mjs https://…` · `node tools/set-adsense-meta.mjs ca-pub-…`
-- À compléter : `[À compléter : …]` dans les mentions légales. Domaine provisoire : sites-pratiques.vercel.app.

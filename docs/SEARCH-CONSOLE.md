@@ -1,7 +1,7 @@
 # Google Search Console
 
 1. https://search.google.com/search-console > Ajouter une propriété.
-   - « Préfixe d'URL » : saisissez l'URL exacte du site (ex. `https://sites-pratiques-raccourcis-clavier.vercel.app/`). Vérification par balise HTML : Google vous donne une balise `<meta name="google-site-verification" content="…">` à coller dans le `<head>` de `index.html` (je n'en ai pas créé). Redéployez, puis cliquez sur « Valider ».
+   - « Préfixe d'URL » : saisissez l'URL exacte du site (ex. `https://sites-pratiques.vercel.app/`). Vérification par balise HTML : Google vous donne une balise `<meta name="google-site-verification" content="…">` à coller dans le `<head>` de `index.html` (je n'en ai pas créé). Redéployez, puis cliquez sur « Valider ».
    - « Domaine » (domaine personnalisé uniquement) : vérification par enregistrement DNS TXT.
 2. Sitemaps > saisissez `sitemap.xml` > Envoyer. Statut attendu : « Réussite », 9 URL découvertes.
 3. Indexation des pages > liste des pages indexées / non indexées et motifs.
