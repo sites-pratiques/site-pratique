@@ -31,6 +31,9 @@ for (const f of pages) {
   if (!/google-adsense-account/.test(h)) ko(f + ' : balise AdSense manquante');
   if (/ca-pub-\d|adsbygoogle\.js|<ins\b/.test(hh)) ko(f + ' : script AdSense actif');
 }
+for (const f of pages) { const h = rd(f), t = (h.match(/<title>([^<]*)/) || [])[1] || ''; /* TITRE70 */
+  if (t.length > 70) ko(f + ' : title de ' + t.length + ' caractères (max 70)');
+  for (const m of h.matchAll(/<a\b[^>]*href="https:\/\/www\.amazon\.fr\/s\?[^"]*"[^>]*>/g)) { if (!/tag=sitespratique-21/.test(m[0])) ko(f + ' : lien Amazon sans Store ID'); if (!/rel="[^"]*sponsored[^"]*nofollow|rel="[^"]*nofollow[^"]*sponsored/.test(m[0])) ko(f + ' : lien Amazon sans rel sponsored nofollow'); } }
 const locs = [...rd('sitemap.xml').matchAll(/<loc>([^<]+)/g)].map((m) => m[1]).sort();
 const exp = pages.filter((f) => f !== '404.html').map((f) => D + '/' + (f.endsWith('index.html') ? f.slice(0, -10) : f)).sort();
 if (JSON.stringify(locs) !== JSON.stringify(exp)) ko('sitemap ≠ pages');
