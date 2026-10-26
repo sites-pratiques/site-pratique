@@ -1,0 +1,6 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('dt'))return;
+var n=new Date();$('dt').value=n.getFullYear()+'-'+('0'+(n.getMonth()+1)).slice(-2)+'-'+('0'+n.getDate()).slice(-2);
+function F(ms){return new Date(ms).toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})}
+function go(){var v=$('dt').value,o=$('out');if(!v){o.textContent='—';return}var p=v.split('-'),t=Date.UTC(+p[0],p[1]-1,+p[2]),d=new Date(t),dn=d.getUTCDay()||7;
+var th=new Date(t);th.setUTCDate(th.getUTCDate()+4-dn);var ys=Date.UTC(th.getUTCFullYear(),0,1),wk=Math.ceil(((th-ys)/864e5+1)/7),y0=Date.UTC(+p[0],0,1),doy=Math.round((t-y0)/864e5)+1,len=Math.round((Date.UTC(+p[0]+1,0,1)-y0)/864e5),mon=t-(dn-1)*864e5;
+o.innerHTML='<p><strong>Semaine '+wk+'</strong> de '+th.getUTCFullYear()+'</p><p>Du '+F(mon)+' au '+F(mon+6*864e5)+'</p><p>Jour n° '+doy+' de l’année ; '+(len-doy)+' jour(s) restant(s) jusqu’au 31 décembre</p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

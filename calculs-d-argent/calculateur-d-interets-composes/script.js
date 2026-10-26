@@ -1,0 +1,5 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('c0'))return;function N(i){var v=parseFloat($(i).value.replace(/\s/g,'').replace(',','.'));return isNaN(v)?null:v}
+function E(n){return n.toLocaleString('fr-FR',{style:'currency',currency:'EUR'})}
+function go(){var c=N('c0'),v=N('pm'),r=N('rt'),y=N('yr'),o=$('out');if(c===null||v===null||r===null||y===null||y<=0||y>100||r<=-100){o.textContent='—';return}
+var n=Math.round(y*12),i=Math.pow(1+r/100,1/12)-1,k=Math.pow(1+i,n),fv=c*k+v*(i===0?n:(k-1)/i),paid=c+v*n;
+o.innerHTML='<p>Capital final : <strong>'+E(fv)+'</strong></p><p>Total versé : <strong>'+E(paid)+'</strong></p><p>Intérêts gagnés : <strong>'+E(fv-paid)+'</strong></p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

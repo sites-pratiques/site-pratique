@@ -1,0 +1,6 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('in'))return;
+function go(){var L=$('in').value.split(/\r?\n/);if($('trim').checked)L=L.map(function(s){return s.trim()});if($('emp').checked)L=L.filter(function(s){return s!==''});var n0=L.length;
+if($('dup').checked){var seen={};L=L.filter(function(s){var k=$('cs').checked?s:s.toLocaleLowerCase('fr');if(seen[k])return false;return seen[k]=true})}
+var o=$('ord').value;if(o!=='none'){L.sort(function(a,b){return a.localeCompare(b,'fr',{sensitivity:'base',numeric:true})});if(o==='za')L.reverse()}
+$('out').value=L.join('\n');$('msg').textContent=$('in').value?L.length+' ligne(s) en sortie ('+(n0-L.length)+' supprimée(s)).':''}
+$('cop').addEventListener('click',function(){var v=$('out').value;if(!v)return;var b=$('cop');function ok(){b.textContent='Copié !';setTimeout(function(){b.textContent='Copier le résultat'},1500)}if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(v).then(ok);else{$('out').select();try{document.execCommand('copy');ok()}catch(e){}}});Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

@@ -71,6 +71,46 @@
       "permanent": true
     },
     {
+      "source": "/informatique/temps-de-telechargement",
+      "destination": "/informatique/temps-de-telechargement/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite/trieur-de-listes",
+      "destination": "/texte-et-productivite/trieur-de-listes/",
+      "permanent": true
+    },
+    {
+      "source": "/dates-et-temps/numero-de-semaine",
+      "destination": "/dates-et-temps/numero-de-semaine/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent/calculateur-de-pret",
+      "destination": "/calculs-d-argent/calculateur-de-pret/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent/calculateur-d-interets-composes",
+      "destination": "/calculs-d-argent/calculateur-d-interets-composes/",
+      "permanent": true
+    },
+    {
+      "source": "/conversions/convertisseur-de-chiffres-romains",
+      "destination": "/conversions/convertisseur-de-chiffres-romains/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/convertisseur-de-couleurs",
+      "destination": "/images-et-fichiers/convertisseur-de-couleurs/",
+      "permanent": true
+    },
+    {
+      "source": "/animaux-et-equitation/date-de-poulinage",
+      "destination": "/animaux-et-equitation/date-de-poulinage/",
+      "permanent": true
+    },
+    {
       "source": "/informatique",
       "destination": "/informatique/",
       "permanent": true

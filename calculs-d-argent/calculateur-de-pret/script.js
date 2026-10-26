@@ -1,0 +1,5 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('cap'))return;function N(i){var v=parseFloat($(i).value.replace(/\s/g,'').replace(',','.'));return isNaN(v)?null:v}
+function E(n){return n.toLocaleString('fr-FR',{style:'currency',currency:'EUR'})}
+function go(){var c=N('cap'),r=N('tx'),d=N('du'),o=$('out');if(c===null||r===null||d===null||c<=0||d<1||r<0){o.textContent='—';return}
+var n=Math.round(d*$('dm').value),i=r/1200,m=i===0?c/n:c*i/(1-Math.pow(1+i,-n)),tot=m*n;
+o.innerHTML='<p>Mensualité : <strong>'+E(m)+'</strong> pendant '+n+' mois</p><p>Coût total remboursé : <strong>'+E(tot)+'</strong></p><p>Dont intérêts : <strong>'+E(tot-c)+'</strong></p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

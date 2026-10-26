@@ -1,0 +1,6 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('ar'))return;
+var T=[[1000,'M'],[900,'CM'],[500,'D'],[400,'CD'],[100,'C'],[90,'XC'],[50,'L'],[40,'XL'],[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']];
+function go(){var n=parseInt($('ar').value,10),o=$('r1');if(!$('ar').value.trim())o.textContent='—';else if(!/^\d+$/.test($('ar').value.trim())||n<1||n>3999)o.textContent='Saisissez un entier de 1 à 3999.';else{var s='';T.forEach(function(p){while(n>=p[0]){s+=p[1];n-=p[0]}});o.innerHTML='<strong>'+s+'</strong>'}
+var r=$('ro').value.trim().toUpperCase(),q=$('r2');if(!r){q.textContent='—';return}
+if(!/^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/.test(r)){q.textContent='Nombre romain invalide.';return}
+var v=0;T.forEach(function(p){while(r.indexOf(p[1])===0){v+=p[0];r=r.slice(p[1].length)}});q.innerHTML='<strong>'+v+'</strong>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();
