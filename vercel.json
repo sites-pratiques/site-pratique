@@ -111,6 +111,31 @@
       "permanent": true
     },
     {
+      "source": "/images-et-fichiers/pdf-vers-images",
+      "destination": "/images-et-fichiers/pdf-vers-images/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/images-vers-pdf",
+      "destination": "/images-et-fichiers/images-vers-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/fusionner-des-pdf",
+      "destination": "/images-et-fichiers/fusionner-des-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/pdf-vers-texte",
+      "destination": "/images-et-fichiers/pdf-vers-texte/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/convertisseur-d-images-bmp-ico-gif",
+      "destination": "/images-et-fichiers/convertisseur-d-images-bmp-ico-gif/",
+      "permanent": true
+    },
+    {
       "source": "/informatique",
       "destination": "/informatique/",
       "permanent": true

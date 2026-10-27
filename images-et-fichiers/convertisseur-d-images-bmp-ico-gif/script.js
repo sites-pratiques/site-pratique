@@ -1,0 +1,29 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('file'))return;var img=null,url=null;function kb(n){return n>1048576?(n/1048576).toFixed(2)+" Mo":Math.max(1,Math.round(n/1024))+" Ko"}
+function u16(v){return[v&255,v>>8&255]}function u32(v){return[v&255,v>>8&255,v>>16&255,v>>>24&255]}
+$('fmt').addEventListener('change',function(){$('isz').hidden=$('fmt').value!=='ico'});
+$('file').addEventListener('change',function(){var f=$('file').files[0];$('res').innerHTML='';if(!f)return;var u=URL.createObjectURL(f),i=new Image();i.onload=function(){URL.revokeObjectURL(u);if(!i.naturalWidth){$('msg').textContent='Dimensions introuvables (SVG sans taille ?).';return}img={i:i,w:i.naturalWidth,h:i.naturalHeight,name:f.name.replace(/\.[^.]+$/,''),size:f.size};$('go').disabled=false;$('msg').textContent=img.w+'×'+img.h+' px, '+kb(f.size)};i.onerror=function(){$('go').disabled=true;$('msg').textContent='Image illisible par ce navigateur.'};i.src=u});
+function draw(w,h,bg){var c=document.createElement('canvas');c.width=w;c.height=h;var x=c.getContext('2d');if(bg){x.fillStyle=bg;x.fillRect(0,0,w,h)}x.drawImage(img.i,0,0,w,h);return c}
+function bmp(c){var w=c.width,h=c.height,d=c.getContext('2d').getImageData(0,0,w,h).data,rs=(w*3+3)&~3,sz=rs*h,o=new Uint8Array(54+sz);o.set([66,77].concat(u32(54+sz),[0,0,0,0],u32(54),u32(40),u32(w),u32(h),u16(1),u16(24),u32(0),u32(sz),u32(2835),u32(2835),u32(0),u32(0)));
+ for(var y=0;y<h;y++){var p=54+(h-1-y)*rs;for(var x=0;x<w;x++){var s=(y*w+x)*4;o[p++]=d[s+2];o[p++]=d[s+1];o[p++]=d[s]}}return new Blob([o],{type:'image/bmp'})}
+function tiff(c){var w=c.width,h=c.height,d=c.getContext('2d').getImageData(0,0,w,h).data,n=11,ifd=8,bps=ifd+2+12*n+4,off=bps+8,len=w*h*4,o=new Uint8Array(off+len);
+ function E(t,ty,cnt,v){return[].concat(u16(t),u16(ty),u32(cnt),ty===3&&cnt===1?u16(v).concat([0,0]):u32(v))}
+ var hd=[73,73,42,0].concat(u32(ifd),u16(n),E(256,4,1,w),E(257,4,1,h),E(258,3,4,bps),E(259,3,1,1),E(262,3,1,2),E(273,4,1,off),E(277,3,1,4),E(278,4,1,h),E(279,4,1,len),E(284,3,1,1),E(338,3,1,2),u32(0),[8,0,8,0,8,0,8,0]);o.set(hd);o.set(d,off);return new Blob([o],{type:'image/tiff'})}
+function lzw(px,mc){var CL=1<<mc,EOI=CL+1,nx=EOI+1,sz=mc+1,D=new Map(),o=[],cur=0,nb=0;function put(c){cur|=c<<nb;nb+=sz;while(nb>=8){o.push(cur&255);cur>>>=8;nb-=8}}
+ put(CL);var p=px[0];for(var i=1;i<px.length;i++){var k=px[i],key=(p<<8)|k,c=D.get(key);if(c!==undefined){p=c}else{put(p);if(nx===4096){put(CL);D.clear();nx=EOI+1;sz=mc+1}else{if(nx>=(1<<sz))sz++;D.set(key,nx++)}p=k}}
+ put(p);if(nx<4096&&nx>=(1<<sz))sz++;put(EOI);if(nb>0)o.push(cur&255);return o}
+function gif(c,dither){var w=c.width,h=c.height,d=c.getContext('2d').getImageData(0,0,w,h).data,f=new Float32Array(w*h*3),idx=new Uint8Array(w*h),i,j;for(i=0;i<w*h;i++){f[i*3]=d[i*4];f[i*3+1]=d[i*4+1];f[i*3+2]=d[i*4+2]}
+ function q(v){return Math.max(0,Math.min(5,Math.round(v/51)))}
+ for(var y=0;y<h;y++)for(var x=0;x<w;x++){i=y*w+x;var r=f[i*3],g=f[i*3+1],b=f[i*3+2],qr=q(r),qg=q(g),qb=q(b);idx[i]=36*qr+6*qg+qb;if(dither){var e=[r-qr*51,g-qg*51,b-qb*51];[[1,0,7/16],[-1,1,3/16],[0,1,5/16],[1,1,1/16]].forEach(function(t){var xx=x+t[0],yy=y+t[1];if(xx>=0&&xx<w&&yy<h){var k=(yy*w+xx)*3;f[k]+=e[0]*t[2];f[k+1]+=e[1]*t[2];f[k+2]+=e[2]*t[2]}})}}
+ var pal=[];for(j=0;j<256;j++){var a=Math.min(j,215);pal.push(Math.floor(a/36)*51,Math.floor(a/6)%6*51,a%6*51)}
+ var data=lzw(idx,8),o=[71,73,70,56,57,97].concat(u16(w),u16(h),[0xF7,0,0],pal,[0x2C,0,0,0,0],u16(w),u16(h),[0,8]);for(i=0;i<data.length;i+=255){var ch=data.slice(i,i+255);o.push(ch.length);for(j=0;j<ch.length;j++)o.push(ch[j])}o.push(0,0x3B);return new Blob([new Uint8Array(o)],{type:'image/gif'})}
+function blob(c,t){return new Promise(function(r){c.toBlob(r,t)})}
+async function ico(){var sizes=[].map.call(document.querySelectorAll('.is:checked'),function(e){return+e.value});if(!sizes.length)return null;var parts=[];
+ for(var k=0;k<sizes.length;k++){var s=sizes[k],c=document.createElement('canvas');c.width=c.height=s;var sc=Math.min(s/img.w,s/img.h),w=Math.round(img.w*sc),h=Math.round(img.h*sc);c.getContext('2d').drawImage(img.i,(s-w)/2,(s-h)/2,w,h);parts.push({s:s,b:new Uint8Array(await(await blob(c,'image/png')).arrayBuffer())})}
+ var hd=[0,0,1,0].concat(u16(parts.length)),off=6+16*parts.length,body=[];parts.forEach(function(p){hd=hd.concat([p.s>=256?0:p.s,p.s>=256?0:p.s,0,0],u16(1),u16(32),u32(p.b.length),u32(off));off+=p.b.length;body.push(p.b)});return new Blob([new Uint8Array(hd)].concat(body),{type:'image/x-icon'})}
+$('go').addEventListener('click',async function(){if(!img)return;$('go').disabled=true;$('res').innerHTML='';var t=$('fmt').value,m=parseInt($('wid').value,10),w=img.w,h=img.h;if(m>0&&m<w){h=Math.round(h*m/w);w=m}
+ if(w*h>36e6){$('msg').textContent='Image trop grande : réduisez la largeur.';$('go').disabled=false;return}
+ try{var b;if(t==='ico')b=await ico();else if(t==='bmp')b=bmp(draw(w,h,$('bg').value));else if(t==='tiff')b=tiff(draw(w,h));else if(t==='gif')b=gif(draw(w,h,$('bg').value),$('dth').checked);else{b=await blob(draw(w,h),'image/avif');if(!b||b.type!=='image/avif'){$('msg').textContent='Votre navigateur ne sait pas encoder l’AVIF.';$('go').disabled=false;return}}
+  if(!b){$('msg').textContent='Cochez au moins une taille d’icône.';$('go').disabled=false;return}
+  if(url)URL.revokeObjectURL(url);url=URL.createObjectURL(b);var ext={bmp:'bmp',ico:'ico',gif:'gif',tiff:'tiff',avif:'avif'}[t];
+  $('res').innerHTML='<a class="btn" download="'+img.name+'.'+ext+'" href="'+url+'">Télécharger '+img.name+'.'+ext+' ('+kb(b.size)+')</a>';$('msg').textContent='Conversion terminée (original : '+kb(img.size)+').'}
+ catch(e){$('msg').textContent='La conversion a échoué.'}$('go').disabled=false})})();
