@@ -136,6 +136,56 @@
       "permanent": true
     },
     {
+      "source": "/images-et-fichiers/supprimer-arriere-plan",
+      "destination": "/images-et-fichiers/supprimer-arriere-plan/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/recadrer-et-pivoter-image",
+      "destination": "/images-et-fichiers/recadrer-et-pivoter-image/",
+      "permanent": true
+    },
+    {
+      "source": "/images-et-fichiers/extraire-des-pages-pdf",
+      "destination": "/images-et-fichiers/extraire-des-pages-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite/comparateur-de-textes",
+      "destination": "/texte-et-productivite/comparateur-de-textes/",
+      "permanent": true
+    },
+    {
+      "source": "/texte-et-productivite/generateur-de-lorem-ipsum",
+      "destination": "/texte-et-productivite/generateur-de-lorem-ipsum/",
+      "permanent": true
+    },
+    {
+      "source": "/dates-et-temps/compte-a-rebours",
+      "destination": "/dates-et-temps/compte-a-rebours/",
+      "permanent": true
+    },
+    {
+      "source": "/calculs-d-argent/calculateur-de-marge",
+      "destination": "/calculs-d-argent/calculateur-de-marge/",
+      "permanent": true
+    },
+    {
+      "source": "/informatique/encodeur-base64-url",
+      "destination": "/informatique/encodeur-base64-url/",
+      "permanent": true
+    },
+    {
+      "source": "/conversions/heures-decimales",
+      "destination": "/conversions/heures-decimales/",
+      "permanent": true
+    },
+    {
+      "source": "/animaux-et-equitation/poids-du-cheval",
+      "destination": "/animaux-et-equitation/poids-du-cheval/",
+      "permanent": true
+    },
+    {
       "source": "/informatique",
       "destination": "/informatique/",
       "permanent": true

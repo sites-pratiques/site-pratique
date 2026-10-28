@@ -1,0 +1,5 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('tg'))return;
+function p(n,w){return n+' '+w+(n>1&&w.slice(-1)!=='s'&&w!=='mois'?'s':'')}
+function go(){var v=$('tg').value,o=$('out');if(!v){o.textContent='Choisissez une date et une heure.';return}var d=new Date(v).getTime()-Date.now(),past=d<0,a=Math.abs(d),s=Math.floor(a/1000),j=Math.floor(s/86400),h=Math.floor(s%86400/3600),m=Math.floor(s%3600/60),sc=s%60,n=$('ev').value.trim();
+ o.innerHTML=(n?'<p><strong>'+n.replace(/[&<>]/g,'')+'</strong></p>':'')+'<p><strong>'+p(j,'jour')+' '+p(h,'heure')+' '+p(m,'minute')+' '+p(sc,'seconde')+'</strong></p><p>'+(past?'écoulé(s) depuis cette date':'restant(s) avant cette date')+'</p>'}
+['ev','tg'].forEach(function(i){$(i).addEventListener('input',go)});setInterval(go,1000);go()})();

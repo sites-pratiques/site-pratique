@@ -1,0 +1,7 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('hm'))return;
+function pad(n){return('0'+n).slice(-2)}
+function parse(s){s=s.trim().toLowerCase();var m=/^(\d+)\s*(?:h|:)\s*(\d{1,2})?\s*(?:min|m)?$/.exec(s);return m?(+m[1])*60+(+m[2]||0):null}
+function hm(min){return Math.floor(min/60)+' h '+pad(min%60)}
+function go(){var a=parse($('hm').value),o=$('r1');o.innerHTML=a===null?'Format attendu : 7:45 ou 7h45.':'<strong>'+(a/60).toLocaleString('fr-FR',{maximumFractionDigits:2})+' h</strong> (décimal)';
+ var d=parseFloat($('dc').value.replace(',','.')),q=$('r2');if(isNaN(d)||d<0)q.textContent='—';else{var t=Math.round(d*60);q.innerHTML='<strong>'+hm(t)+' min</strong>'.replace(' min','')}
+ var tot=0,bad=0,n=0;$('ls').value.split('\n').forEach(function(l){if(!l.trim())return;var v=parse(l);if(v===null)bad++;else{tot+=v;n++}});$('r3').innerHTML=n?'Total : <strong>'+hm(tot)+'</strong> soit '+(tot/60).toLocaleString('fr-FR',{maximumFractionDigits:2})+' h ('+n+' ligne(s))'+(bad?'<br>'+bad+' ligne(s) ignorée(s)':''):'—'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();
