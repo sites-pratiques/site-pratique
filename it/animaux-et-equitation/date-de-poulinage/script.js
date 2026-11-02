@@ -1,0 +1,4 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('sd'))return;
+function F(ms){return new Date(ms).toLocaleDateString('it-IT',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})}
+function go(){var v=$('sd').value,o=$('out');if(!v){o.textContent='Scelga una data.';return}var p=v.split('-'),t=Date.UTC(+p[0],p[1]-1,+p[2]);
+o.innerHTML='<p>Data stimata del parto: <strong>'+F(t+340*864e5)+'</strong></p><p>Intervallo abituale: dal '+F(t+320*864e5)+' al '+F(t+360*864e5)+'</p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

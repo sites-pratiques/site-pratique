@@ -1,0 +1,4 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('sd'))return;
+function F(ms){return new Date(ms).toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})}
+function go(){var v=$('sd').value,o=$('out');if(!v){o.textContent='Elija una fecha.';return}var p=v.split('-'),t=Date.UTC(+p[0],p[1]-1,+p[2]);
+o.innerHTML='<p>Fecha estimada del parto: <strong>'+F(t+340*864e5)+'</strong></p><p>Rango habitual: del '+F(t+320*864e5)+' al '+F(t+360*864e5)+'</p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

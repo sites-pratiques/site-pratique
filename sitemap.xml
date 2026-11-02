@@ -1,57 +1,909 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sites-pratiques.vercel.app/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/guide.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/lettres.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/animaux-et-equitation/poids-du-cheval/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-marge/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-pourcentage/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-pret/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-tva/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/conversions/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/conversions/convertisseur-d-unites/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/conversions/heures-decimales/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/dates-et-temps/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/dates-et-temps/calculateur-d-age/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/dates-et-temps/calculateur-de-dates/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/dates-et-temps/numero-de-semaine/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-d-images-bmp-ico-gif/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-d-images/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/extraire-des-pages-pdf/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/fusionner-des-pdf/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/images-vers-pdf/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/pdf-vers-images/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/pdf-vers-texte/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/recadrer-et-pivoter-image/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/images-et-fichiers/supprimer-arriere-plan/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/encodeur-base64-url/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/generateur-de-mot-de-passe/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/generateur-qr-code/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/generateur-qr-code/guide.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/bureautique.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/developpement.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/guide.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/mac.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/navigateurs.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/windows.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/mentions-legales.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/politique-confidentialite.html</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/comparateur-de-textes/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/compteur-de-mots/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/generateur-de-lorem-ipsum/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://sites-pratiques.vercel.app/texte-et-productivite/trieur-de-listes/</loc><lastmod>2026-10-27</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/guide.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/age-du-cheval/lettres.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/date-de-poulinage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/date-de-poulinage/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/animaux-et-equitation/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/animaux-et-equitation/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/animaux-et-equitation/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/animaux-et-equitation/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/animaux-et-equitation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/animaux-et-equitation/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/animaux-et-equitation/poids-du-cheval/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/calculateur-d-interets-composes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-d-interets-composes/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-marge/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-pourcentage/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-pret/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/calculateur-de-tva/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/calculs-d-argent/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/calculs-d-argent/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/calculs-d-argent/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/calculs-d-argent/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/calculs-d-argent/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/calculs-d-argent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/calculs-d-argent/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/conversions/convertisseur-d-unites/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/convertisseur-de-chiffres-romains/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/convertisseur-de-chiffres-romains/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/conversions/heures-decimales/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/conversions/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/conversions/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/conversions/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/conversions/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/conversions/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/conversions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/conversions/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/dates-et-temps/calculateur-d-age/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/dates-et-temps/calculateur-de-dates/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/compte-a-rebours/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/compte-a-rebours/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/dates-et-temps/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/dates-et-temps/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/dates-et-temps/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/dates-et-temps/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/dates-et-temps/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/dates-et-temps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/dates-et-temps/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/dates-et-temps/numero-de-semaine/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-d-images-bmp-ico-gif/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-d-images/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/convertisseur-de-couleurs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/convertisseur-de-couleurs/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/extraire-des-pages-pdf/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/fusionner-des-pdf/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/images-vers-pdf/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/images-et-fichiers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/images-et-fichiers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/images-et-fichiers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/images-et-fichiers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/images-et-fichiers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/images-et-fichiers/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/pdf-vers-images/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/pdf-vers-texte/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/recadrer-et-pivoter-image/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/images-et-fichiers/supprimer-arriere-plan/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/encodeur-base64-url/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/generateur-de-mot-de-passe/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/generateur-qr-code/guide.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/generateur-qr-code/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/informatique/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/informatique/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/informatique/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/informatique/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/bureautique.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/developpement.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/guide.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/mac.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/navigateurs.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/raccourcis-clavier/windows.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/informatique/temps-de-telechargement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/informatique/temps-de-telechargement/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/mentions-legales.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/politique-confidentialite.html</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/comparateur-de-textes/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/compteur-de-mots/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/convertisseur-de-casse/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/convertisseur-de-casse/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/generateur-de-lorem-ipsum/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/en/texte-et-productivite/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/de/texte-et-productivite/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/es/texte-et-productivite/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/it/texte-et-productivite/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sites-pratiques.vercel.app/en/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sites-pratiques.vercel.app/de/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sites-pratiques.vercel.app/es/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sites-pratiques.vercel.app/it/texte-et-productivite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sites-pratiques.vercel.app/texte-et-productivite/"/>
+  </url>
+  <url>
+    <loc>https://sites-pratiques.vercel.app/texte-et-productivite/trieur-de-listes/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
 </urlset>

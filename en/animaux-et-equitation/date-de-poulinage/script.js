@@ -1,0 +1,4 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('sd'))return;
+function F(ms){return new Date(ms).toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})}
+function go(){var v=$('sd').value,o=$('out');if(!v){o.textContent='Choose a date.';return}var p=v.split('-'),t=Date.UTC(+p[0],p[1]-1,+p[2]);
+o.innerHTML='<p>Estimated foaling date: <strong>'+F(t+340*864e5)+'</strong></p><p>Usual range: from '+F(t+320*864e5)+' to '+F(t+360*864e5)+'</p>'}Array.prototype.forEach.call(document.querySelectorAll("main input,main select,main textarea"),function(e){e.addEventListener("input",go);e.addEventListener("change",go)});go()})();

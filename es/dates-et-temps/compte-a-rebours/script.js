@@ -1,0 +1,5 @@
+(function(){var $=function(i){return document.getElementById(i)};if(!$('tg'))return;
+function p(n,w){var M={jour:['día','días'],heure:['hora','horas'],minute:['minuto','minutos'],seconde:['segundo','segundos']};return n+' '+M[w][n===1?0:1]}
+function go(){var v=$('tg').value,o=$('out');if(!v){o.textContent='Elija una fecha y una hora.';return}var d=new Date(v).getTime()-Date.now(),past=d<0,a=Math.abs(d),s=Math.floor(a/1000),j=Math.floor(s/86400),h=Math.floor(s%86400/3600),m=Math.floor(s%3600/60),sc=s%60,n=$('ev').value.trim();
+ o.innerHTML=(n?'<p><strong>'+n.replace(/[&<>]/g,'')+'</strong></p>':'')+'<p><strong>'+p(j,'jour')+' '+p(h,'heure')+' '+p(m,'minute')+' '+p(sc,'seconde')+'</strong></p><p>'+(past?'transcurrido(s) desde esta fecha':'restante(s) hasta esta fecha')+'</p>'}
+['ev','tg'].forEach(function(i){$(i).addEventListener('input',go)});setInterval(go,1000);go()})();

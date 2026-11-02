@@ -219,6 +219,306 @@
       "source": "/animaux-et-equitation",
       "destination": "/animaux-et-equitation/",
       "permanent": true
+    },
+    {
+      "source": "/en",
+      "destination": "/en/",
+      "permanent": true
+    },
+    {
+      "source": "/en/animaux-et-equitation/date-de-poulinage",
+      "destination": "/en/animaux-et-equitation/date-de-poulinage/",
+      "permanent": true
+    },
+    {
+      "source": "/en/animaux-et-equitation",
+      "destination": "/en/animaux-et-equitation/",
+      "permanent": true
+    },
+    {
+      "source": "/en/calculs-d-argent/calculateur-d-interets-composes",
+      "destination": "/en/calculs-d-argent/calculateur-d-interets-composes/",
+      "permanent": true
+    },
+    {
+      "source": "/en/calculs-d-argent",
+      "destination": "/en/calculs-d-argent/",
+      "permanent": true
+    },
+    {
+      "source": "/en/conversions/convertisseur-de-chiffres-romains",
+      "destination": "/en/conversions/convertisseur-de-chiffres-romains/",
+      "permanent": true
+    },
+    {
+      "source": "/en/conversions",
+      "destination": "/en/conversions/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dates-et-temps/compte-a-rebours",
+      "destination": "/en/dates-et-temps/compte-a-rebours/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dates-et-temps",
+      "destination": "/en/dates-et-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/en/images-et-fichiers/convertisseur-de-couleurs",
+      "destination": "/en/images-et-fichiers/convertisseur-de-couleurs/",
+      "permanent": true
+    },
+    {
+      "source": "/en/images-et-fichiers",
+      "destination": "/en/images-et-fichiers/",
+      "permanent": true
+    },
+    {
+      "source": "/en/informatique",
+      "destination": "/en/informatique/",
+      "permanent": true
+    },
+    {
+      "source": "/en/informatique/temps-de-telechargement",
+      "destination": "/en/informatique/temps-de-telechargement/",
+      "permanent": true
+    },
+    {
+      "source": "/en/texte-et-productivite/convertisseur-de-casse",
+      "destination": "/en/texte-et-productivite/convertisseur-de-casse/",
+      "permanent": true
+    },
+    {
+      "source": "/en/texte-et-productivite",
+      "destination": "/en/texte-et-productivite/",
+      "permanent": true
+    },
+    {
+      "source": "/de",
+      "destination": "/de/",
+      "permanent": true
+    },
+    {
+      "source": "/de/animaux-et-equitation/date-de-poulinage",
+      "destination": "/de/animaux-et-equitation/date-de-poulinage/",
+      "permanent": true
+    },
+    {
+      "source": "/de/animaux-et-equitation",
+      "destination": "/de/animaux-et-equitation/",
+      "permanent": true
+    },
+    {
+      "source": "/de/calculs-d-argent/calculateur-d-interets-composes",
+      "destination": "/de/calculs-d-argent/calculateur-d-interets-composes/",
+      "permanent": true
+    },
+    {
+      "source": "/de/calculs-d-argent",
+      "destination": "/de/calculs-d-argent/",
+      "permanent": true
+    },
+    {
+      "source": "/de/conversions/convertisseur-de-chiffres-romains",
+      "destination": "/de/conversions/convertisseur-de-chiffres-romains/",
+      "permanent": true
+    },
+    {
+      "source": "/de/conversions",
+      "destination": "/de/conversions/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dates-et-temps/compte-a-rebours",
+      "destination": "/de/dates-et-temps/compte-a-rebours/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dates-et-temps",
+      "destination": "/de/dates-et-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/de/images-et-fichiers/convertisseur-de-couleurs",
+      "destination": "/de/images-et-fichiers/convertisseur-de-couleurs/",
+      "permanent": true
+    },
+    {
+      "source": "/de/images-et-fichiers",
+      "destination": "/de/images-et-fichiers/",
+      "permanent": true
+    },
+    {
+      "source": "/de/informatique",
+      "destination": "/de/informatique/",
+      "permanent": true
+    },
+    {
+      "source": "/de/informatique/temps-de-telechargement",
+      "destination": "/de/informatique/temps-de-telechargement/",
+      "permanent": true
+    },
+    {
+      "source": "/de/texte-et-productivite/convertisseur-de-casse",
+      "destination": "/de/texte-et-productivite/convertisseur-de-casse/",
+      "permanent": true
+    },
+    {
+      "source": "/de/texte-et-productivite",
+      "destination": "/de/texte-et-productivite/",
+      "permanent": true
+    },
+    {
+      "source": "/es",
+      "destination": "/es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/animaux-et-equitation/date-de-poulinage",
+      "destination": "/es/animaux-et-equitation/date-de-poulinage/",
+      "permanent": true
+    },
+    {
+      "source": "/es/animaux-et-equitation",
+      "destination": "/es/animaux-et-equitation/",
+      "permanent": true
+    },
+    {
+      "source": "/es/calculs-d-argent/calculateur-d-interets-composes",
+      "destination": "/es/calculs-d-argent/calculateur-d-interets-composes/",
+      "permanent": true
+    },
+    {
+      "source": "/es/calculs-d-argent",
+      "destination": "/es/calculs-d-argent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/conversions/convertisseur-de-chiffres-romains",
+      "destination": "/es/conversions/convertisseur-de-chiffres-romains/",
+      "permanent": true
+    },
+    {
+      "source": "/es/conversions",
+      "destination": "/es/conversions/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dates-et-temps/compte-a-rebours",
+      "destination": "/es/dates-et-temps/compte-a-rebours/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dates-et-temps",
+      "destination": "/es/dates-et-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/es/images-et-fichiers/convertisseur-de-couleurs",
+      "destination": "/es/images-et-fichiers/convertisseur-de-couleurs/",
+      "permanent": true
+    },
+    {
+      "source": "/es/images-et-fichiers",
+      "destination": "/es/images-et-fichiers/",
+      "permanent": true
+    },
+    {
+      "source": "/es/informatique",
+      "destination": "/es/informatique/",
+      "permanent": true
+    },
+    {
+      "source": "/es/informatique/temps-de-telechargement",
+      "destination": "/es/informatique/temps-de-telechargement/",
+      "permanent": true
+    },
+    {
+      "source": "/es/texte-et-productivite/convertisseur-de-casse",
+      "destination": "/es/texte-et-productivite/convertisseur-de-casse/",
+      "permanent": true
+    },
+    {
+      "source": "/es/texte-et-productivite",
+      "destination": "/es/texte-et-productivite/",
+      "permanent": true
+    },
+    {
+      "source": "/it",
+      "destination": "/it/",
+      "permanent": true
+    },
+    {
+      "source": "/it/animaux-et-equitation/date-de-poulinage",
+      "destination": "/it/animaux-et-equitation/date-de-poulinage/",
+      "permanent": true
+    },
+    {
+      "source": "/it/animaux-et-equitation",
+      "destination": "/it/animaux-et-equitation/",
+      "permanent": true
+    },
+    {
+      "source": "/it/calculs-d-argent/calculateur-d-interets-composes",
+      "destination": "/it/calculs-d-argent/calculateur-d-interets-composes/",
+      "permanent": true
+    },
+    {
+      "source": "/it/calculs-d-argent",
+      "destination": "/it/calculs-d-argent/",
+      "permanent": true
+    },
+    {
+      "source": "/it/conversions/convertisseur-de-chiffres-romains",
+      "destination": "/it/conversions/convertisseur-de-chiffres-romains/",
+      "permanent": true
+    },
+    {
+      "source": "/it/conversions",
+      "destination": "/it/conversions/",
+      "permanent": true
+    },
+    {
+      "source": "/it/dates-et-temps/compte-a-rebours",
+      "destination": "/it/dates-et-temps/compte-a-rebours/",
+      "permanent": true
+    },
+    {
+      "source": "/it/dates-et-temps",
+      "destination": "/it/dates-et-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/it/images-et-fichiers/convertisseur-de-couleurs",
+      "destination": "/it/images-et-fichiers/convertisseur-de-couleurs/",
+      "permanent": true
+    },
+    {
+      "source": "/it/images-et-fichiers",
+      "destination": "/it/images-et-fichiers/",
+      "permanent": true
+    },
+    {
+      "source": "/it/informatique",
+      "destination": "/it/informatique/",
+      "permanent": true
+    },
+    {
+      "source": "/it/informatique/temps-de-telechargement",
+      "destination": "/it/informatique/temps-de-telechargement/",
+      "permanent": true
+    },
+    {
+      "source": "/it/texte-et-productivite/convertisseur-de-casse",
+      "destination": "/it/texte-et-productivite/convertisseur-de-casse/",
+      "permanent": true
+    },
+    {
+      "source": "/it/texte-et-productivite",
+      "destination": "/it/texte-et-productivite/",
+      "permanent": true
     }
   ],
   "headers": [
